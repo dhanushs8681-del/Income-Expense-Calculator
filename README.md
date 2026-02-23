@@ -6,7 +6,7 @@ A fully functional, beautifully designed **Income & Expense Calculator** built w
 
 ## 🌐 Live Demo
 
-🔗 **[View Live App](https://expense-calculator-projects.netlify.app/)**
+🔗 **[View Live App](https://income-expense-calculators.netlify.app/)**
 
 ---
 
@@ -86,7 +86,7 @@ Income-Expense-Calculator/
 ### ⚙️ Setup & Installation
 
 1. Clone the repository:
-    git clone https://github.com/Lokesh-web16/Income-Expense-Calculator.git
+    git clone https://github.com/dhanushs8681-del/Income-Expense-Calculator
 
 2. Navigate into the folder:
     cd Income-Expense-Calculator
@@ -133,8 +133,8 @@ This project is live and open-source:
 
 | Platform | Link |
 | :--- | :--- |
-| 🌐 **Live Site** | [Netlify](https://expense-calculator-projects.netlify.app/) |
-| 💻 **Source Code** | [GitHub](https://github.com/Lokesh-web16/Income-Expense-Calculator) |
+| 🌐 **Live Site** | [Netlify](https://income-expense-calculators.netlify.app/) |
+| 💻 **Source Code** | [GitHub](https://github.com/dhanushs8681-del/Income-Expense-Calculator) |
 
 ---
 
@@ -190,3 +190,4 @@ The description field is protected with **3 layers of validation**:
 
 ### 📄 License
 This project is open-source and available under the **MIT License**.
+
